@@ -1,0 +1,19 @@
+# Mac/Linux
+*.DS_Store
+
+# Windows
+Thumbs.db
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Rider
+.idea/
+
+# Build results
+[Bb]in/
+[Oo]bj/
