@@ -12,14 +12,14 @@ You can find the official book here: [https://csharpplayersguide.com](https://cs
 
 ## 🛠️ Structure
 
-Each folder corresponds to one of the **"Program Challenges"** at the end of a chapter or section.
+Each folder corresponds to one of the **"Book Levels"**.
 
 Example:
 
-Chapter01_HelloWorld/
-└── HelloWorld.cs
-Chapter02_Variables/
-└── TheThingNamer3000.cs
+level-03/
+└── HelloWorldApp
+└── WhatComesNextApp
+level-04/
 ...
 
 
@@ -27,12 +27,12 @@ Whenever needed, I've included a `README.md` or comments within the code to expl
 
 ## 📚 Progress
 
-| Chapter | Title                        | Status      |
-|---------|------------------------------|-------------|
-| 01      | Hello World                  | 🟨 In Progress |
-| 02      | The Thing Namer 3000         | 🟨 In Progress |
-| 03      | Simula's Test                | 🟨 In Progress |
-| ...     | ...                          | ⏳ Coming soon |
+| Level   | Title                          | Status          |
+|---------|--------------------------------|-----------------|
+| 03      | [Hello, World!](https://github.com/rkeppler42/CSharp-Players-Guide/tree/main/level-03/HelloWorldApp)                  | 🟩 Completed   |
+| 03      | What Comes Next                | 🟨 In Progress |
+| 03      | The Makings of a Programmer    | 🟨 In Progress |
+| ...     | ...                            | ⏳ Coming soon |
 
 ## 💡 Goals
 
