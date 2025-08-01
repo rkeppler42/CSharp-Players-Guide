@@ -1,19 +1,21 @@
-## Challenge: "Hello, World!" Console Application
+# 🌟 Challenge: Hello, World!
 
-This initial project serves as a basic entry point into C# by creating and running a "Hello, World!" program.
+This first exercise introduces creating and running a simple **console application** in C#.  
+The goal is to display a short message in the console to verify your environment and learn the basics of program structure.
 
-### Core Requirements
+---
 
-* Create a new C# project from the **Console Application** template.
+## 🎯 Core Requirements
 
-* Configure the project to target the **.NET 8** framework.
+- Create a new C# **Console Application** project.  
+- Target the **.NET 8** framework.  
+- Write code that prints the message `"Hello, World!"` to the console.
 
-* Write the necessary code to print the exact text "Hello, World!" to the console.
+---
 
-### Concepts Practiced
+## ✅ Concepts Practiced
 
-* Basic project setup and configuration in an IDE.
+- Setting up a basic console project in an IDE  
+- Understanding the structure of a `Program.cs` file  
+- Printing output using `Console.WriteLine()`
 
-* The fundamental structure of a C# `Program.cs` file.
-
-* Using the `Console.WriteLine()` method to produce output.
