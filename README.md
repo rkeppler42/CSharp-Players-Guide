@@ -16,10 +16,10 @@ Each folder corresponds to one of the **"Book Levels"**.
 
 Example:
 
-level-03/
-└── HelloWorldApp
-└── WhatComesNextApp
-level-04/
+level-03/\
+└── HelloWorldApp\
+└── WhatComesNextApp\
+level-04/\
 ...
 
 
