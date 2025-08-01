@@ -16,10 +16,10 @@ Each folder corresponds to one of the **"Book Levels"**.
 
 Example:
 
-level-03/
-└── HelloWorldApp
-└── WhatComesNextApp
-level-04/
+level-03/\
+└── HelloWorldApp\
+└── WhatComesNextApp\
+level-04/\
 ...
 
 
@@ -30,7 +30,7 @@ Whenever needed, I've included a `README.md` or comments within the code to expl
 | Level   | Title                          | Status          |
 |---------|--------------------------------|-----------------|
 | 03      | [Hello, World!](https://github.com/rkeppler42/CSharp-Players-Guide/tree/main/level-03/HelloWorldApp)                  | 🟩 Completed   |
-| 03      | What Comes Next                | 🟨 In Progress |
+| 03      | [What Comes Next](https://github.com/rkeppler42/CSharp-Players-Guide/tree/main/level-03/WhatComesNextApp)                | 🟩 Completed |
 | 03      | The Makings of a Programmer    | 🟨 In Progress |
 | ...     | ...                            | ⏳ Coming soon |
 
